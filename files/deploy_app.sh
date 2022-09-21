@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   "Welcome to ${PREFIX}'s app. Replace this text with your own. "
+=======
+  Welcome to ${PREFIX}'s app. JH Style로 바꿉시다.
+>>>>>>> ce7e257ef3a551a2ca21a9d7c8038c303a4506a8
   <!-- END -->
   
   </div>
